@@ -1,0 +1,6 @@
+Hello, World! This is a test file for the .any format.
+
+这是一个测试文件，用于演示 .any 文件格式。
+
+The .any format is based on WebAssembly and provides a safe way to create self-extracting files.
+

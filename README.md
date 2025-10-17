@@ -1,4 +1,5 @@
-# any
+# *.any
+
 A file format containing content of files in any format: *.any based on WebAssembly.
 
 ## Inspiration
